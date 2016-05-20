@@ -18,7 +18,7 @@ CSS
 * Use of `!important` should be kept to an absolute minimum. Any time you use `!important` you should add a comment as to why you put it there.
 
 Commenting
-___
+---
 
 * Comment anytime you do any of the following things:
  * Use `!important` in CSS
