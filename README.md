@@ -41,6 +41,7 @@ Reviewing code
 
 Deploying
 ---
+* Make a database backup on LIVE before any deployment.
 * Every Trello card should have a "deploy" checklist that includes steps that need to be taken to deploy that card.
 * Github commits should include a comment containing the steps required to deploy the code (can be same as the deploy checklist on Trello)
 * Any changes that can be inspected via a GUI should be deployed to a multidev branch so we can see and test them manually
